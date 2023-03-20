@@ -29,4 +29,4 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 ck.getcookiestxt.com
 0.0.0.0 eu1.clevertap-prod.com
-0.0.0.0 orcas-valle.web.app
+0.0.0.0 https://orcas-valle.web.app/
